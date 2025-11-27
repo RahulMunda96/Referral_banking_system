@@ -31,7 +31,6 @@ export default function RegisterPage() {
 
   return (
     <div className="min-h-screen flex bg-white">
-      {/* LEFT SIDE IMAGE */}
       <div className="hidden md:flex w-1/2 relative">
         <Image
           src="/login-bg.jpg"

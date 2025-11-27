@@ -33,7 +33,7 @@ export default function AdminLogin() {
         />
 
         {/* Strong Gradient Overlay */}
-        <div className="absolute inset-0 bg-gradient-to-b from-black/20 via-black/40 to-black/70"></div>
+        <div className="absolute inset-0 bg-linear-to-b from-black/20 via-black/40 to-black/70"></div>
 
         <div className="absolute bottom-14 left-10 text-white">
           <h1 className="text-4xl font-bold drop-shadow-md">
