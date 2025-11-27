@@ -45,7 +45,7 @@ export default function RegisterPage() {
         <div className="absolute bottom-10 left-10 text-white">
           <h1 className="text-3xl font-bold">Create Your Account</h1>
           <p className="text-sm text-gray-200 mt-2">
-            Join BharatPay — Fast, Secure & Smart Banking
+            Join Fast, Secure & Smart Banking
           </p>
         </div>
       </div>

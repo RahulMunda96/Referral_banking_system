@@ -26,14 +26,13 @@ export default function LoginPage() {
       {/* LEFT SIDE IMAGE */}
       <div className="hidden md:flex w-1/2 relative">
         <Image
-          src="/login-bg.jpg"
+          src="/Wavy_Bus-23_Single-04.jpg"
           alt="Login Background"
           fill
           className="object-cover"
         />
 
-        {/* Gradient Overlay */}
-        <div className="absolute inset-0 bg-gradient-to-b from-black/20 via-black/40 to-black/60"></div>
+        <div className="absolute inset-0 bg-linear-to-b from-black/20 via-black/40 to-black/60"></div>
 
         <div className="absolute bottom-12 left-10 text-white">
           <h1 className="text-4xl font-bold tracking-tight">Welcome Back</h1>
@@ -51,7 +50,7 @@ export default function LoginPage() {
               Sign In
             </CardTitle>
             <CardDescription className="text-center text-gray-500 text-sm">
-              Access your BharatPay account securely
+              Access your Bank account securely
             </CardDescription>
           </CardHeader>
 
